@@ -1,0 +1,12 @@
+original_string = "hello world"
+upper_case_string = original_string.upper()
+lower_case_string = original_string.lower()
+swapped_case_string = original_string.swapcase()
+capitalized_string = original_string.capitalize()
+print("Original String:", original_string)
+title_case_string = original_string.title()
+print("Upper Case:", upper_case_string)
+print("Lower Case:", lower_case_string)
+print("Swapped Case:", swapped_case_string)
+print("Capitalized String:", capitalized_string)
+print("Title Case:", title_case_string)
