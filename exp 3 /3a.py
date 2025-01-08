@@ -1,4 +1,4 @@
-original_string = "hello world"
+original_string = "abhishek"
 upper_case_string = original_string.upper()
 lower_case_string = original_string.lower()
 swapped_case_string = original_string.swapcase()
