@@ -8,3 +8,4 @@ plt.xlabel("X")
 plt.ylabel("Y")
 plt.grid()
 plt.show()
+#kya sab chutiyapa hai
